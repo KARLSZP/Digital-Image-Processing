@@ -5,7 +5,8 @@ Preview of this repo.
 
 * BMP文件存储格式
 * DIP 01 数字图像基础
-* DIP 02 图像增强
+* DIP 02 图像增强-空间域滤波
+* DIP 03 图像增强-频率域滤波
 
 ## PPTSet
 
@@ -24,6 +25,7 @@ Preview of this repo.
 ## Experiments
 
 * Exp1: Histogram Equalization & Gamma Transformation.
+* Exp2: Laplacian Enhancement & Unsharp Masking - High-boost filtering.
 
 ---
 
