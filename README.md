@@ -26,6 +26,7 @@ Preview of this repo.
 
 * Exp1: Histogram Equalization & Gamma Transformation.
 * Exp2: Laplacian Enhancement & Unsharp Masking - High-boost filtering.
+* Exp3: Two-Dimensional Fast Fourier Transform & Fourier Spectrum and Average Value & Lowpass Filtering &  Highpass Filtering Using a Lowpass Image & Correlation in the Frequency Domain &  a research on the characteristic of the spectrum, which means the spectrum will rotate the same degree as the image does.
 
 ---
 
