@@ -11,7 +11,7 @@ img4 = imread('./Fig0418(a).tif');
 % b
 [M, N] = size(img4);
 gauss_lp = gauss_lowpass(img4, M/2, N/2, 10);
-imwrite(uint8(gauss_lp), './Fig0418(b).tif');
+% imwrite(uint8(gauss_lp), './Fig0418(b).tif');
 
 figure(1);
 subplot(121); imshow(img4); title('Origin');
